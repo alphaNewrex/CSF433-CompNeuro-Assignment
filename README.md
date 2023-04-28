@@ -1,1 +1,1 @@
-# CSFF433-CompNeuro-Assignment
+# CS F433-CompNeuro-Assignment
